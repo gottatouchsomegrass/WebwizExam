@@ -1,6 +1,5 @@
 import React from "react";
 import Searchbar from "./components/Searchbar";
-import Searchresults from "./components/Searchresults";
 
 function App() {
   return (
